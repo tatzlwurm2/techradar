@@ -1,7 +1,5 @@
 ﻿name,ring,quadrant,isNew,description 
-Aurora Postgres,adopt,platforms,no,cloud database
-Aurora Mysql,hold,platforms,no,cloud database
+Aurora,adopt,techiques,no,cloud database
 cockroach,trial,platforms,yes,data domicile
-yugabyte,assess,platforms,yes,data domicile
-oracle,hold,platforms,no,Expensive rdbms based on xadata
-
+yugabyte,assess,tools,yes,data domicile
+oracle,hold,languages-and-frameworks,no,Expensive rdbms based on xadata
