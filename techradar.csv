@@ -1,5 +1,9 @@
 ﻿name,ring,quadrant,isNew,description 
-Aurora,adopt,platforms,no,cloud database
-cockroach,trial,platforms,yes,data domicile
-yugabyte,assess,platforms,yes,data domicile
-oracle,hold,platforms,no,Expensive rdbms based on xadata
+Aurora,adopt,Platforms,no,cloud database
+cockroach,trial,Platforms,yes,data domicile
+yugabyte,assess,Platforms,yes,data domicile
+oracle,hold,Platforms,no,Expensive rdbms based on xadata
+gemfire,hold,Tools,no,caching hardware
+elastiCache(redis),adopt,Tools,no,Expensive rdbms based on xadata
+BERT,trial,Techniques,no,placeholder
+carbon,hold,languages-and-frameworks,no,placeholder
