@@ -1,6 +1,6 @@
 ﻿name,ring,quadrant,isNew,description 
-Aurora Postgres,adopt,Tools,no,cloud database
-Aurora Mysql,hold,Tools,no,cloud database
+Aurora(Postgres),adopt,Tools,no,cloud database
+Aurora(Mysql),hold,Tools,no,cloud database
 cockroach,trial,Tools,yes,data domicile
 yugabyte,assess,Tools,yes,data domicile
 oracle,hold,Tools,no,Expensive rdbms based on exadata
@@ -14,5 +14,5 @@ java,adopt,languages-and-frameworks,no,placeholder
 Rally(scrum),adopt,Techniques,yes,Sprints and Rally boards for tracking work
 python,adopt,languages-and-frameworks,yes,Python programming language
 perl,hold,languages-and-frameworks,no,Perl not even sure its deployed but is a dying language.
-Apagie,adopt,Platforms,yes,Api control plane in the cloud from GCP
-Aviatrix ,adopt,Platforms,yes,"Cloud networking framework, Eric on front page."
+Apagie,adopt,Platforms,yes,"Apigee is a platform for developing and managing APIs. By fronting services with a proxy layer, Apigee provides an abstraction or facade for your backend service APIs and provides security, rate limiting, quotas, analytics, and more. https://cloud.google.com/apigee/docs/api-platform/get-started/what-apigee"
+Aviatrix ,adopt,Platforms,yes,"Cloud networking framework, Eric on front page. Aviatrix enables enterprises to build, manage, and grow as they extend operations to the cloud and make cloud part of their business strategy. We help you scale from single- to multicloud as well as future-proof your network for growth and manageability."
