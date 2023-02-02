@@ -4,6 +4,6 @@ cockroach,trial,Platforms,yes,data domicile
 yugabyte,assess,Platforms,yes,data domicile
 oracle,hold,Platforms,no,Expensive rdbms based on xadata
 gemfire,hold,Tools,no,caching hardware
-elastiCache(redis),adopt,Tools,no,Expensive rdbms based on xadata
+elastiCache(redis),adopt,Tools,yes,memory caching option to replace gemfire
 BERT,trial,Techniques,no,placeholder
 carbon,hold,languages-and-frameworks,no,placeholder
