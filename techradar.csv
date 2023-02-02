@@ -3,7 +3,7 @@ Aurora Postgres,adopt,Tools,no,cloud database
 Aurora Mysql,hold,Tools,no,cloud database
 cockroach,trial,Tools,yes,data domicile
 yugabyte,assess,Tools,yes,data domicile
-oracle,hold,Tools,no,Expensive rdbms based on xadata
+oracle,hold,Tools,no,Expensive rdbms based on exadata
 gemfire,hold,Platforms,no,caching hardware
 Graphana,hold,Tools,no,custom Dashboard monitoring - same as appd 
 Appdynamics,adopt,Tools,yes,Monitoring to replace Dashboard
@@ -13,3 +13,6 @@ EKS,adopt,Techniques,no,Managed Kubernetes by aws
 java,adopt,languages-and-frameworks,no,placeholder
 Rally(scrum),adopt,Techniques,yes,Sprints and Rally boards for tracking work
 python,adopt,languages-and-frameworks,yes,Python programming language
+perl,hold,languages-and-frameworks,no,Perl not even sure its deployed but is a dying language.
+Apagie,adopt,Platforms,yes,Api control plane in the cloud from GCP
+Aviatrix ,adopt,Platforms,yes,"Cloud networking framework, Eric on front page."
