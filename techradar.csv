@@ -4,6 +4,10 @@ cockroach,trial,Platforms,yes,data domicile
 yugabyte,assess,Platforms,yes,data domicile
 oracle,hold,Platforms,no,Expensive rdbms based on xadata
 gemfire,hold,Tools,no,caching hardware
+Graphana,hold,Tools,no,custom Dashboard monitoring - same as appd 
+Appdynamics,Adopt,Tools,Yes,Monitoring to replace Dashboard
+BigPandas,adopt,Tools,Yes,Alerting to open SNOW tickets
 elastiCache(redis),adopt,Tools,yes,memory caching option to replace gemfire
 BERT,trial,Techniques,no,placeholder
 carbon,hold,languages-and-frameworks,no,placeholder
+Rally(scrum),adopt,Techniques,yes,Sprints and Rally boards for tracking work
